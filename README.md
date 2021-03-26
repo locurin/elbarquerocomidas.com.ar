@@ -41,6 +41,6 @@ First stable version of the web, deploy on february 2021 // primera versión est
 
 ## Credits
 
-Site built by [Locurin](https://github.com/Locurin) for [El Barquero Comidas de mar](https://www.elbarquerocomidas.com.ar/). You can also contact me at **matiasfefernandez95@gmail.com**.
+Site built by [locurin](https://github.com/locurin) for [El Barquero Comidas de mar](https://www.elbarquerocomidas.com.ar/). You can also contact me at **matiasfefernandez95@gmail.com**.
 
 
