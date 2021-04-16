@@ -4,15 +4,15 @@
 
 ## Table of contents
 
-*[General info](#General-info)
+* [General info](#General-info)
 
-*[Technologies](#Technologies)
+* [Technologies](#Technologies)
 
-*[functionalities](#Functionalities)
+* [functionalities](#Functionalities)
 
-*[version](#Version)
+* [version](#Version)
 
-*[credits](#Credits)
+* [credits](#Credits)
 
 ## General info
 
@@ -21,13 +21,13 @@ Sitio web estático desarrollado para el restaurante de mariscos El Barquero, ut
 
 ## Technologies
 
-*[Bootstrap](https://getbootstrap.com/) v.5-0.0-beta2
+* [Bootstrap](https://getbootstrap.com/) v.5-0.0-beta2
 
-*[HTML5](https://www.w3schools.com/html/)
+* [HTML5](https://www.w3schools.com/html/)
 
-*[CSS5](https://www.w3schools.com/css/)
+* [CSS5](https://www.w3schools.com/css/)
 
-*[JavaScript](https://www.w3schools.com/js/)
+* [JavaScript](https://www.w3schools.com/js/)
 
 ## Functionalities
 
