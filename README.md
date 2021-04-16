@@ -25,7 +25,7 @@ Sitio web estático desarrollado para el restaurante de mariscos El Barquero, ut
 
 * [HTML5](https://www.w3schools.com/html/)
 
-* [CSS5](https://www.w3schools.com/css/)
+* [CSS3](https://www.w3schools.com/css/)
 
 * [JavaScript](https://www.w3schools.com/js/)
 
